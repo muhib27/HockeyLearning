@@ -1,0 +1,4 @@
+#Mon Mar 15 14:43:19 BDT 2021
+base.0=F\:\\Project\\HockeyLearning\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
